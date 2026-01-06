@@ -5,14 +5,6 @@ Projeto simples em JavaScript que simula a lógica de um sistema de saque em cai
 
 O objetivo é aplicar conceitos básicos de lógica de programação, como estruturas de repetição, validações e controle de fluxo.
 
-## 📌 Exemplos de uso
-
-Entrada | Saída
---- | ---
-80 | 50:1 20:1 10:1
-90 | 50:1 20:2 10:0
-15 | Insira uma quantia valida
-
 ## ⚙️ Regras de Negócio
 - O valor do saque deve estar entre 10 e 1000
 - O valor deve ser múltiplo de 10
