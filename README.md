@@ -22,7 +22,7 @@ A distribuição das notas é feita de forma sequencial:
 |-------|------|
 | 80 | 50:1 20:1 10:1 |
 | 90 | 50:1 20:2 10:0 |
-| 15 | Insira uma quantia valida |
+| 15 | Insira uma quantia válida |
 
 ## 🚀 Tecnologias
 - JavaScript
